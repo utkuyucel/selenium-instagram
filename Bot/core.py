@@ -8,7 +8,7 @@ import os
 
 class InstagramBot():
 	"""
-	Automatically log in to Instagram, auto close the noticements etc.
+	Automatically log in to Instagram, auto close the noticements etc
 	"""
 	global followers, following, inter
 
