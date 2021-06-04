@@ -20,7 +20,7 @@ def useBot(bot, slow_mode = True):
 			print(i," ile karşılıklı takipleşiliyor.")
 
 
-if __name__ = "__main__":
+if __name__ == "__main__":
 	useBot(InstagramBot, True)
 
 
